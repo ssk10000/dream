@@ -2,6 +2,8 @@
 
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+
+# Description: Change volume with middle and thumb. Squeeze both fingers to lower and strecth to raise volume
 import cv2
 import time
 import numpy as np
